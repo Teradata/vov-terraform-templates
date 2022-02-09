@@ -1,0 +1,257 @@
+License Agreement
+Specific Terms of Use - License Agreement for Teradata Database on VMware - Developer Tier/Developer Tier Preconfigured
+License Reference: 200924/219540 (License for Teradata Developer Tier) @ 196519/880854/1644433483
+License Agreement
+
+Specific Terms of Use - License Agreement for Teradata Database on VMware - Developer Tier
+
+License Reference: 200924/219099 (License for Teradata Developer Tier) @ 196519/38/1553270168
+
+SPECIFIC TERMS OF USE
+
+LICENSE AGREEMENT
+
+ 
+
+PRODUCT:                          Teradata Database or Teradata Vantage
+
+LICENSE REFERENCE:  [inserted by Content Management System for each download]
+
+ 
+
+IMPORTANT - READ THIS AGREEMENT CAREFULLY BEFORE INSTALLING OR USING THE SOFTWARE.  TERADATA WILL LICENSE THE SOFTWARE TO YOU ONLY IF YOU ACCEPT THE TERMS AND CONDITIONS OF THIS AGREEMENT AND MEET THE CONDITIONS FOR USING THE SOFTWARE DESCRIBED BELOW.  BY INSTALLING OR USING THE SOFTWARE, OR BY CLICKING THE “I AGREE” ICON BELOW, YOU (1) AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT, AND (2) REPRESENT AND WARRANT THAT YOU POSSESS THE AUTHORITY TO ENTER INTO THIS AGREEMENT ON BEHALF OF YOU, YOUR EMPLOYER (WHEN ACTING ON BEHALF OF YOUR EMPLOYER), AND/OR A TERADATA-AUTHORIZED LICENSEE (WHEN YOU AND YOUR EMPLOYER ARE ACTING ON BEHALF OF A TERADATA-AUTHORIZED LICENSEE).  IF YOU DO NOT ACCEPT THE TERMS AND CONDITIONS OF THIS AGREEMENT, CLICK THE “CANCEL” ICON BELOW AND DO NOT INSTALL OR USE THE SOFTWARE.
+
+ 
+
+IMPORTANT - BY DOWNLOADING THE SOFTWARE:
+
+ YOU ACKNOWLEDGE THAT THE SOFTWARE YOU ARE DOWNLOADING FROM TERADATA IS SUBJECT TO THE RESTRICTIONS AND CONTROLS IMPOSED BY UNITED STATES EXPORT REGULATIONS. 
+ YOU CERTIFY THAT:
+ 
+o YOU DO NOT INTEND TO USE THE SOFTWARE FOR ANY PURPOSE PROHIBITED BY UNITED STATES EXPORT REGULATIONS, INCLUDING, WITHOUT LIMITATION, TERRORISM, CYBER-ATTACKS, CYBER-CRIMES, MONEY-LAUNDERING, INDUSTRIAL ESPIONAGE, OR NUCLEAR, CHEMICAL OR BIOLOGICAL WEAPONS PROLIFERATION.
+o YOU ARE NOT LISTED AS A DENIED PARTY ON ANY LIST GOVERNING UNITED STATES EXPORTS.
+o YOU ARE NOT A NATIONAL OF ANY COUNTRY THAT IS NOT APPROVED FOR EXPORT OF THE SOFTWARE.  AS OF 2018, THESE COUNTRIES ARE CUBA, IRAN, NORTH KOREA, SOUTH SUDAN, AND SYRIA.
+ 
+
+This License Agreement (“Agreement”) is a legal contract between you (as defined below) and Teradata (as defined below) regarding the Software (as defined below).  The terms “you”, “your” and “yours” collectively and individually refer to you as an individual and to any company for which you are acting.  The term “Teradata” refers to either Teradata U.S., Inc. for Software deliveries in the US or Teradata Ireland Ltd. for Software deliveries outside the United States.  “Software” refers to the software product identified above, which consists of computer software code in object code form only, as well as associated documentation that Teradata may elect in its sole discretion to provide you.  “Software” also includes any and all error corrections, bug fixes, updates, upgrades, or new versions or releases of the Software (collectively and individually, “Enhancements”) that Teradata may elect in its sole discretion to provide you.  
+
+ 
+
+1.  Term.  This Agreement commences on the earliest date of the first download, first copying, first installation, or first use of the Software (the “Effective Date”). Unless terminated earlier as provided herein, this agreement, including your license to the Software, will expire or terminate as follows:  (a) if you have a paid-for license to use the Teradata Database or  Teradata Vantage, your license to use the Software expires or terminates on the same date that your paid-for license to use the Teradata Database or Teradata Vantage expires or terminates (whichever occurs first) or (b) if you do not have a paid-for license to use the Teradata Database or Teradata Vantage, your license to use the Software expires ninety (90) days after the Effective Date (the “Evaluation Period”).
+
+ 
+
+2.  License.  
+
+(a)  Subject to your compliance with all the terms and conditions of this Agreement and only during the term of this Agreement, Teradata grants you a nonexclusive, nontransferable, royalty-free license to install and use the Software on your computer solely for the following purposes: 
+
+(i) if you have a paid-for license to use the Teradata Vantage or Teradata Database product, solely for development and non-production purposes that facilitate your paid-for, licensed use of the Teradata Vantage or Teradata Database, or 
+
+(ii) if you do not have a paid-for license to use the Teradata Vantage or Teradata Database product, solely for purposes of: 
+
+aa) internally evaluating the Software, 
+
+bb) internally testing the interoperability of the Software with computer applications that you have independently developed or separately acquired (“Your Applications”)
+
+cc) your internal training (whether led by you or a Teradata instructor), and 
+
+dd) demonstrating Your Applications to other persons.  
+
+ 
+
+You may make reasonable archival backup copies of the Software, but may only use an archival copy in lieu of your primary copy and subject to the same restrictions as your primary copy.
+
+ 
+
+(b)  The term Third Party Software means computer programs or modules (including their documentation) that bear the logo, copyright and/or trademark of a third party (including open source software that are contained in files marked as “open source” or the like) or are otherwise subject to the written license terms of a third party.  The term “Software” does not include Third Party Software.  Third Party Software is licensed to you subject to the applicable license terms accompanying it, included in/with it, referenced in it, or otherwise entered into by you with respect to it.  Third Party Software license terms include those found in the FOSS licensing zip file accompanying the Software.  Teradata provides source code to certain Third Party Software for certain periods of time in compliance with certain applicable licenses.  To request such source code, visit http://developer.teradata.com/download/license/oss-request.  Third Party Software may include a copy of Novell SLES. Your use of such Novell SLES copy is subject to the attached Novell Software License Agreement. Notwithstanding the attached Novell Software License Agreement, your use of such Novell SLES copy is further limited to use of the single copy accompanying the Software as a platform for the Software and third party applications with a direct linkage to the Software.
+
+ 
+
+(c)  You will not sell, copy, rent, loan, modify, transfer, disclose, embed, sublicense, create derivative works of or distribute the Software, in whole or in part, without Teradata’s prior written consent.  You are granted no rights to obtain or use the Software’s source code.  You will not reverse-assemble, reverse compile or reverse-engineer the Software, except as expressly permitted by applicable law without the possibility of contractual waiver.  You will not use the Software in a way that exceeds the limitations set by this Agreement.  For example, you will not use the Software for production purposes, or for more than one Evaluation Period.  You will not disable or circumvent limitations set by the Software or otherwise use the Software in a way that exceeds the limitations set by the Software.  For example, you will not use the Software for more than any query concurrency limit in the Software, or more than any node limit in the Software.  Notwithstanding anything to the contrary, you do not have any license, right, or authority to subject the Software, in whole or in part or as part of a larger work, to any terms of any other agreement, including GNU Public Licenses. 
+
+ 
+
+(d)  No license rights to the Software will be implied.  The Software, which includes all copies thereof (whether in whole or in part), is and remains the exclusive property of Teradata.  You will ensure that all copies of the Software contain Teradata's copyright notices, as well as all other proprietary legends.  Teradata reserves the right to inspect your use of the Software for purposes of verifying your compliance with the terms and conditions of this Agreement.    
+
+ 
+
+3.  Responsibilities.  You are responsible for the installation of the Software, as well as for providing data security and backup operations.  This Agreement does not require Teradata to provide you with any Enhancements, consulting services, technical assistance, installation, training, support, or maintenance of any kind (collectively and individually, “Services”). To the extent that Teradata elects to provide you with any Services, such Services are provided to you at Teradata’s sole discretion and may be modified or discontinued at any time for any reason.  
+
+ 
+
+4.  DISCLAIMER OF WARRANTY.  TERADATA: (a) PROVIDES SERVICES (IF ANY), (b) LICENSES THE SOFTWARE, AND (c) PROVIDES THIRD PARTY SOFTWARE TO YOU ON AN “AS-IS” BASIS WITHOUT WARRANTIES OF ANY KIND (ORAL OR WRITTEN, EXPRESS OR IMPLIED, OR STATUTORY). WITHOUT LIMITATION TO THE FOREGOING, THERE ARE NO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.  TERADATA DOES NOT WARRANT THAT THE SOFTWARE, THIRD PARTY SOFTWARE, OR SERVICES WILL MEET YOUR REQUIREMENTS OR CONFORM TO ANY SPECIFICATIONS, OR THAT THE OPERATION OF THE SOFTWARE OR THIRD PARTY SOFTWARE WILL BE UNINTERRUPTED OR ERROR FREE.  YOU BEAR THE ENTIRE RISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY, AND RESULTS OBTAINED FROM THE SOFTWARE, THIRD PARTY SOFTWARE, AND SERVICES.
+
+ 
+
+SOME JURISDICTIONS RESTRICT DISCLAIMERS OF WARRANTY, SO THE ABOVE DISCLAIMERS MAY NOT FULLY APPLY TO YOU.
+
+ 
+
+5.  LIMITATIONS ON LIABILITY: UNDER NO CIRCUMSTANCES WILL TERADATA’S AND ITS LICENSORS’ TOTAL CUMULATIVE LIABILITY FOR CLAIMS RELATING TO THIS AGREEMENT, THE SERVICES, THE SOFTWARE, AND/OR THIRD PARTY SOFTWARE (WHETHER BASED IN CONTRACT, STATUTE, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE) EXCEED US$1,000; PROVIDED, HOWEVER, THAT THE FOREGOING WILL NOT APPLY TO CLAIMS FOR (A) PERSONAL INJURY, INCLUDING DEATH, TO THE EXTENT CAUSED BY TERADATA'S NEGLIGENCE OR WILLFUL MISCONDUCT; OR (B) PHYSICAL DAMAGE TO TANGIBLE REAL OR PERSONAL PROPERTY TO THE EXTENT CAUSED BY TERADATA'S NEGLIGENCE OR WILLFUL MISCONDUCT EQUAL TO THE AMOUNT OF DIRECT DAMAGES UP TO ONE MILLION DOLLARS PER OCCURRENCE.  IN NO EVENT WILL TERADATA OR ITS LICENSORS BE LIABLE FOR ANY INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL OR CONSEQUENTIAL DAMAGES, OR FOR LOSS OF PROFITS, REVENUE, TIME, OPPORTUNITY OR DATA, EVEN IF INFORMED OF THE POSSIBILITY OF SUCH DAMAGES. 
+
+ 
+
+SOME JURISDICTIONS RESTRICT LIMITATIONS OF LIABILITY, SO THE ABOVE LIMITATIONS MAY NOT FULLY APPLY TO YOU.
+
+ 
+
+6.  Government Restrictions. You agree that you will not, directly or indirectly, export or transmit any Software without obtaining Teradata’s prior written authorization, as well as appropriate governmental approvals, including those required by the U.S. Government.  Use and or distribution of this software is subject to export laws and regulations of the United States and other jurisdictions. The links below connect you to applicable U.S. government agencies, and their regulations, that have jurisdiction over this transaction.
+
+http://www.bis.doc.gov/
+http://www.treas.gov/offices/enforcement/ofac/
+
+In downloading this product, you acknowledge that this transaction is subject to applicable export control laws and you certify that your download, use and/or subsequent distribution of this product is not prohibited under applicable laws and regulations.
+
+ 
+
+The Government’s use, duplication, or disclosure of Teradata’s commercial computer software and commercial computer software documentation is subject to: (a) the Restricted Rights Notice set forth in 48 C.F.R. ¶ 52.227-14 (Rights In Data - General); (b) Teradata’s standard commercial license rights supplemented by 48 C.F.R. ¶ 52.227-19 (Commercial Computer Software - Restricted Rights); and/or (c) the limited rights and license set forth 48 CFR ¶ 252.227-7015 (Technical Data–Commercial Items), as applicable.
+
+ 
+
+7.  Termination and Expiration. A party may terminate this Agreement with or without cause, upon providing written notice to the other parties.  When this Agreement terminates or expires, you will immediately cease all use of the Software and any copy of Novell SLES accompanying the Software, permanently remove the Software from all computers and any copy of Novell SLES accompanying the Software, destroy all copies of the Software and any copy of Novell SLES accompanying the Software, and (upon receipt of Teradata’s request) provide a signed written certification that the foregoing has occurred.  Sections 4, 5, 6, 7, 8, 9, 10, and 11 will survive expiration or termination of this Agreement.
+
+ 
+
+8.  Choice of Law and Dispute Resolution. The parties will attempt in good faith to resolve any controversy or claim by negotiation or mediation.  If they are unable to do so, and regardless of the causes of action alleged and whether they arise under this Agreement or otherwise, the claim will be resolved by arbitration before a sole arbitrator in Dayton, Ohio pursuant to the then-current Commercial Rules of the American Arbitration Association and the federal substantive and procedural law of arbitration.  The arbitrator’s award will be final and binding, and may be entered in any court having jurisdiction thereof, but may include only damages consistent with the limitations in this Agreement.  Each party will bear its own attorney's fees and costs related to the arbitration. The obligations to negotiate, mediate and arbitrate shall not apply to claims for misuse or infringement of a party’s intellectual property rights.  Any claim or action must be brought within two years after the claimant knows or should have known of the claim.  New York law will govern the interpretation and enforcement of this Agreement, except that the Federal Arbitration Act will govern the interpretation and enforcement of the arbitrability of claims under this Section.
+
+ 
+
+9.  Feedback.  Notwithstanding anything to the contrary: (a) Teradata will have no obligation of any kind with respect to any Software-related comments, suggestions, design changes or improvements that you elect to provide to Teradata in either verbal or written form (collectively, “Software Feedback”), and (b) Teradata and its affiliates are hereby free to use any ideas, concepts, know-how or techniques, in whole or in part, contained in Software Feedback: (i) for any purpose whatsoever, including developing, manufacturing, and/or marketing products and/or services incorporating  Software Feedback in whole or in part, and (ii) without any restrictions or limitations, including requiring the payment of any license fees, royalties, or other consideration. 
+
+ 
+
+10.  Confidentiality.  You will not disclose the results of any testing or evaluations, including any benchmarks, insofar as it relates to the Software without Teradata’s prior written consent.  
+
+ 
+
+11.  Entire Agreement. This Agreement and the terms of use for the site from which you downloaded the Software (“General Terms of Use”) constitute the entire understanding of the parties with respect to the Software and Services, and supersede all other prior agreements and understandings whether oral or written.  In the event of a conflict between this Agreement and the General Terms of Use, this Agreement will prevail with respect to the subject matter hereof.  No oral representation or change to this Agreement will be binding upon either party unless agreed to in writing and signed by authorized representatives of all parties.  You will not assign this Agreement or your rights, nor will you delegate your obligations under this Agreement.  Failure by either party to enforce any term or condition of this Agreement will not be deemed a waiver of future enforcement of that or any other term or condition.  The provisions of this Agreement are severable. "Include", "includes", and "including" shall be interpreted as introducing a list of examples which do not limit the generality of any preceding words or any words in the list of examples.
+
+ 
+
+ 
+
+ATTACHMENT:
+
+ 
+
+SUSE® LINUX Enterprise Server (SLES) 
+
+ 
+
+Novell® Software License Agreement
+
+ 
+
+PLEASE READ THIS AGREEMENT CAREFULLY. BY INSTALLING OR OTHERWISE USING THE SOFTWARE (INCLUDING ITS COMPONENTS), YOU AGREE TO THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE WITH THESE TERMS, DO NOT DOWNLOAD, INSTALL OR USE THE SOFTWARE AND, IF APPLICABLE, RETURN THE ENTIRE UNUSED PACKAGE TO THE RESELLER WITH YOUR RECEIPT FOR A REFUND. THE SOFTWARE MAY NOT BE SOLD, TRANSFERRED, OR FURTHER DISTRIBUTED WITHOUT PRIOR WRITTEN AUTHORIZATION FROM NOVELL.
+
+
+RIGHTS AND LICENSES
+
+ 
+
+This Novell Software License Agreement ("Agreement") is a legal agreement between You (an entity or a person) and Novell, Inc. ("Novell") with respect to the software product identified in the title of this Agreement, media (if any) and accompanying documentation (collectively the "Software").
+
+
+The Software is a collective work of Novell. You may make and use unlimited copies of the Software for Your distribution and use within Your Organization. The term "Organization" means a legal entity, excluding subsidiaries and affiliates with a separate existence for tax purposes or for legal personality purposes. An example of an Organization in the private sector would be a corporation, partnership, or trust, excluding any subsidiaries or affiliates of the organization with a separate tax identification number or company registration number. In the public sector, an example of Organization would be a specific government body or local government authority.
+
+
+The Software is a modular operating system. Most of the components are open source packages, developed independently, and accompanied by separate license terms. Your license rights with respect to individual components accompanied by separate license terms are defined by those terms; nothing in this Agreement shall restrict, limit, or otherwise affect any rights or obligations You may have, or conditions to which You may be subject, under such license terms.
+
+
+While the license terms for a component may authorize You to distribute the component, You may not use any Novell marks (e.g., SUSE and SUSE LINUX) in distributing the component, whether or not the component contains Novell marks.
+
+ 
+
+OTHER LICENSE TERMS AND RESTRICTIONS
+
+The Software is protected by the copyright laws and treaties of the United States ("U.S.") and other countries and is subject to the terms of this Agreement. The Software is licensed to You, not sold.
+
+The Software may be bundled with other software programs ("Bundled Programs"). Your license rights with respect to Bundled Programs accompanied by separate license terms are defined by those terms; nothing in this Agreement shall restrict, limit, or otherwise affect any rights or obligations You may have, or conditions to which You may be subject, under such license terms.
+
+Novell reserves all rights not expressly granted to You. You may not: (1) reverse engineer, decompile, or disassemble the Software except and only to the extent it is expressly permitted by applicable law or the license terms accompanying a component of the Software; or (2) transfer the Software or Your license rights under this Agreement, in whole or in part.
+
+ 
+
+MAINTENANCE AND SUPPORT
+
+Your rights with respect to updates, patches, or other materials received under a subscription to a Novell maintenance program for the Software are defined by the relevant maintenance program terms.
+
+Novell has no obligation under this Agreement to provide maintenance or support for the Software. Depending on how You acquired the Software, You may have also acquired a maintenance subscription for the Software. For more information on Novell's current maintenance and support offerings, see http://www.novell.com/support.
+
+ 
+
+OWNERSHIP RIGHTS
+
+No title to or ownership of the Software is transferred to You. Novell and/or its licensors owns and retains all title and ownership of all intellectual property rights in the Software, including any adaptations or copies. You acquire only a license to use the Software.
+
+ 
+
+LIMITED WARRANTY
+
+For ninety (90) days from Your date of purchase, Novell warrants that (1) any media on which the Software is delivered is free from physical defects; and (2) the Software will substantially conform to the documentation accompanying the Software. If the defective items are returned to Novell or if You report the nonconformity to Novell within ninety (90) days from the date of purchase, Novell will at its sole discretion either resolve the nonconformity or refund the license fees You paid for the Software. Any misuse or unauthorized modification of the Software voids this warranty. THE FOREGOING WARRANTY IS YOUR SOLE AND EXCLUSIVE REMEDY AND IS IN LIEU OF ALL OTHER WARRANTIES, EXPRESS OR IMPLIED. (The foregoing warranty does not apply to Software provided free of charge. SUCH SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTIES OF ANY KIND.)
+
+
+THE SOFTWARE IS NOT DESIGNED, MANUFACTURED OR INTENDED FOR USE OR DISTRIBUTION WITH ON-LINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS REQUIRING FAIL-SAFE PERFORMANCE, SUCH AS IN THE OPERATION OF NUCLEAR FACILITIES, AIRCRAFT NAVIGATION, COMMUNICATION, OR CONTROL SYSTEMS, DIRECT LIFE SUPPORT MACHINES, WEAPONS SYSTEMS, OR OTHER USES IN WHICH FAILURE OF THE SOFTWARE COULD LEAD DIRECTLY TO DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE.
+
+ 
+
+THE SOFTWARE IS ONLY COMPATIBLE WITH CERTAIN COMPUTERS AND OPERATING SYSTEMS. THE SOFTWARE IS NOT WARRANTED FOR NON-COMPATIBLE SYSTEMS. Call Novell or Your dealer for information about compatibility.
+
+Non-Novell Products. The Software may include or be bundled with hardware or other software programs licensed or sold by a licensor other than Novell. NOVELL DOES NOT WARRANT NON-NOVELL PRODUCTS. ANY SUCH PRODUCTS ARE PROVIDED ON AN "AS IS" BASIS. ANY WARRANTY SERVICE FOR NONNOVELL PRODUCTS IS PROVIDED BY THE PRODUCT LICENSOR IN ACCORDANCE WITH THE APPLICABLE LICENSOR WARRANTY.
+
+EXCEPT AS OTHERWISE RESTRICTED BY LAW, NOVELL DISCLAIMS AND EXCLUDES ANY AND ALL IMPLIED WARRANTIES INCLUDING ANY WARRANTIES OF MERCHANTABILITY, TITLE, NONINFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE. NOVELL MAKES NO WARRANTY, REPRESENTATION OR PROMISE NOT EXPRESSLY SET FORTH IN THIS LIMITED WARRANTY. NOVELL DOES NOT WARRANT THAT THE SOFTWARE WILL SATISFY YOUR REQUIREMENTS OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED. Some jurisdictions do not allow certain disclaimers and limitations of warranties, so portions of the above limitations may not apply to You. This limited warranty gives You specific rights and You may also have other rights which vary from state to state.
+
+LIMITATION OF LIABILITY
+
+(a) Consequential Losses. NEITHER NOVELL NOR ANY OF ITS LICENSORS, SUBSIDIARIES, OR EMPLOYEES WILL IN ANY CASE BE LIABLE FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, INDIRECT, TORT, ECONOMIC OR PUNITIVE DAMAGES ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, INCLUDING WITHOUT LIMITATION LOSS OF PROFITS, BUSINESS OR DATA, EVEN IF ADVISED OF THE POSSIBILITY OF THOSE DAMAGES.
+
+(b) Direct Damages. IN NO EVENT WILL NOVELL'S AGGREGATE LIABILITY FOR DIRECT DAMAGES TO PROPERTY OR PERSON (WHETHER IN ONE INSTANCE OR A SERIES OF INSTANCES) EXCEED 1.25 TIMES THE AMOUNT PAID BY YOU FOR THE SOFTWARE OUT OF WHICH SUCH CLAIM AROSE [OR $50 (U.S.) IF YOU RECEIVED THE SOFTWARE FREE OF CHARGE]. The above exclusions and limitations will not apply to claims relating to death or personal injury. In those jurisdictions that do not allow the exclusion or limitation of damages, Novell's liability shall be limited or excluded to the maximum extent allowed within those jurisdictions.
+
+ 
+
+GENERAL TERMS
+
+Term. This Agreement becomes effective on the date You legally acquire the Software and will automatically terminate if You breach any of its terms. Upon termination of this Agreement, You must destroy the original and all copies of the Software or return them to Novell and delete the Software from Your systems.
+
+ 
+
+Benchmark Testing. This benchmark testing restriction applies to You if You are a software vendor or if You are performing testing on the Software at the direction of or on behalf of a software vendor. You may not, without Novell's prior written consent not to be unreasonably withheld, publish or disclose to any third party the results of any benchmark test of the Software. If You are a vendor of products that are functionally similar to or compete with the Software ("Similar Products"), or are acting on behalf of such a vendor, and You publish or disclose benchmark information on the Software in violation of this restriction, then notwithstanding anything to the contrary in the Similar Product's end user license agreement, and in addition to any other remedies Novell may have, Novell shall have the right to perform benchmark testing on Similar Products and to disclose and publish that benchmark information and You hereby represent that You have authority to grant such right to Novell.
+
+ 
+
+Transfer. This Agreement may not be transferred or assigned without the prior written approval of Novell.
+
+ 
+
+Law and Jurisdiction. This Agreement is governed by the laws of the State of Utah, U.S. Any action at law relating to this Agreement may only be brought before the courts of competent jurisdiction of the State of Utah. If, however, Your country of principal residence is a member state of the European Union or the European Free Trade Association, this Agreement is governed by the laws of that country, and any action at law may only be brought before a court of competent jurisdiction of that country.
+
+ 
+
+Entire Agreement. This Agreement and the Upgrade/Additive Agreement (if applicable) sets forth the entire understanding and agreement between You and Novell and may be amended only in a writing signed by both parties. NO LICENSOR, DISTRIBUTOR, DEALER, RETAILER, RESELLER, SALES PERSON, OR EMPLOYEE IS AUTHORIZED TO MODIFY THIS AGREEMENT OR TO MAKE ANY REPRESENTATION OR PROMISE THAT IS DIFFERENT FROM, OR IN ADDITION TO, THE TERMS OF THIS AGREEMENT.
+
+ 
+
+Waiver. No waiver of any right under this Agreement will be effective unless in writing, signed by a duly authorized representative of the party to be bound. No waiver of any past or present right arising from any breach or failure to perform will be deemed to be a waiver of any future right arising under this Agreement.
+
+ 
+
+Severability. If any provision in this Agreement is invalid or unenforceable, that provision will be construed, limited, modified or, if necessary, severed, to the extent necessary, to eliminate its invalidity or unenforceability, and the other provisions of this Agreement will remain unaffected.
+
+ 
+
+Export Compliance. Any person or entity exporting or re-exporting Novell products directly or indirectly and via any means, including electronic transfer, is wholly responsible for doing so in accordance with the U.S. Export Administration Regulations and the laws of host countries. Novell assumes no responsibility or liability for your failure to obtain any necessary export approvals. Approvals are dependent upon an item's technical characteristics, the destination, end-use and end-user, as well as other activities of the end user. Specifically, no Novell product may be exported to embargoed or otherwise restricted countries or end users. Please consult the Bureau of Industry and Security web page and other sources before exporting Novell products from the U.S. and familiarize yourself with the laws of destination countries before re-exporting Novell products. This provision shall survive the expiration or earlier termination of this Agreement. Please refer to the export matrix for Novell products for more information on exporting Novell Software. You can download a copy from http://www.novell.com/info/exports/ or obtain a copy from your local Novell office.
+
+ 
+
+U.S. Government Restricted Rights. Use, duplication, or disclosure by the U.S. Government is subject to the restrictions in FAR 52.227-14 (June 1987) Alternate III (June 1987), FAR 52.227-19 (June 1987), or DFARS 252.227-7013 (b)(3) (Nov 1995), or applicable successor clauses. Contractor/Manufacturer is Novell, Inc., 1800 South Novell Place, Provo, Utah 84606.
+
+Other. The application of the United Nations Convention of Contracts for the International Sale of Goods is expressly excluded.
+
+Copyright 1993, 2000-2006 Novell, Inc. All Rights Reserved.
+(020706)
+
+ 
+
+Novell and SUSE are registered trademarks, and the SUSE logo is a trademark, of Novell, Inc. in the United States and other countries. Linux is a registered trademark of Linus Torvalds.
+
+
