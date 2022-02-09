@@ -27,15 +27,18 @@ readme: |
   ## Additional resources
   
   [For more information on Vantage on VMware visit: https://www.teradata.com/Cloud/VMware](https://www.teradata.com/Cloud/VMware)
+
   [For more information about Vantage on VMware for IBM Cloud Private please contact Teradata sales](https://www.teradata.com/About-Us/Contact)
   
   ## Getting support
   
   This offering is provided by [Teradata](https://www.teradata.com/). If you encounter any issues, navigate to [https://support.teradata.com/community](https://support.teradata.com/community).
+
 links:
 - id: docs_index
   title: Teradata Vantage™ on VMware Developer Tier (Preconfigured) Getting Started
   url: https://docs.teradata.com/r/Teradata-VantageTM-on-VMware-Developer-Tier-Preconfigured-Quick-Deployment-Guide/October-2021
+
 - id: support_index
   title: Teradata Community Support
   url: https://support.teradata.com/community
