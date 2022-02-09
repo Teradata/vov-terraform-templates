@@ -1,0 +1,41 @@
+---
+app_id: teradata-vantage-on-vmware-dev-tier-1710
+title: Teradata Vantage on VMware Dev Tier
+version: 17.10.03
+revision: '0'
+kind: ova
+image:
+  url: https://teradata-download.s3.amazonaws.com/database/teradata-express/tdc-jupyter-ova/IBMCloud-DevTier-171003.ova
+  sha256: 678a4367688491436203343b80880b17370a57fe949287e6aabee3ead085104
+eula_url: https://downloads.teradata.com/download/license
+eula_label: Teradata All Rights Reserved
+categories:
+- network
+- target_vcenter
+logo: https://s23.q4cdn.com/501457330/files/design/logo-two_colors.png
+description: 
+readme: |
+  
+  As an enterprise-class analytics platform, Teradata Vantage stands alone. When deployed on IBM Cloud Private, Teradata Vantage on VMware offers a powerful, flexible new way to enhance business insights and bring faster time to value.
+  
+  Try the free Teradata Vantage on VMware Developer Tier to see how Teradata Vantage on VMware works in the IBM Cloud. 
+  
+  Use cases include advanced application development, prototyping, test and development, and small analyticsi projects. Transform data into answers using agile, virtual infrastructure already in inventory.
+
+  For more informtion about Teradata Vantage on VMware in IBM Cloud Private please contact Teradata sales: [https://www.teradata.com/About-Us/Contact](https://www.teradata.com/About-Us/Contact)
+ 
+  ## Additional resources
+  
+  [For more information on Vantage on VMware visit: https://www.teradata.com/Cloud/VMware](https://www.teradata.com/Cloud/VMware)
+  [For more information about Vantage on VMware for IBM Cloud Private please contact Teradata sales](https://www.teradata.com/About-Us/Contact)
+  
+  ## Getting support
+  
+  This offering is provided by [Teradata](https://www.teradata.com/). If you encounter any issues, navigate to [https://support.teradata.com/community](https://support.teradata.com/community).
+links:
+- id: docs_index
+  title: Teradata Vantage™ on VMware Developer Tier (Preconfigured) Getting Started
+  url: https://docs.teradata.com/r/Teradata-VantageTM-on-VMware-Developer-Tier-Preconfigured-Quick-Deployment-Guide/October-2021
+- id: support_index
+  title: Teradata Community Support
+  url: https://support.teradata.com/community
