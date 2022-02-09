@@ -2,7 +2,7 @@
 app_id: teradata-vantage-on-vmware-dev-tier-1710
 title: Teradata Vantage on VMware Dev Tier
 version: 17.10.03
-revision: '0'
+revision: '1'
 kind: ova
 image:
   url: https://teradata-download.s3.amazonaws.com/database/teradata-express/tdc-jupyter-ova/IBMCloud-DevTier-171003.ova
