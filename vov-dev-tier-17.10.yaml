@@ -6,7 +6,7 @@ revision: '1'
 kind: ova
 image:
   url: https://teradata-download.s3.amazonaws.com/database/teradata-express/tdc-jupyter-ova/IBMCloud-DevTier-171003.ova
-  sha256: 678a4367688491436203343b80880b17370a57fe949287e6aabee3ead085104
+  sha256: 678a4367688491436203343b80880b17370a57fe949287e6aabee3ead0851044
 eula_url: https://downloads.teradata.com/download/license
 eula_label: Teradata All Rights Reserved
 categories:
