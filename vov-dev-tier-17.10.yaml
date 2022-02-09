@@ -13,9 +13,8 @@ categories:
 - network
 - target_vcenter
 logo: https://s23.q4cdn.com/501457330/files/design/logo-two_colors.png
-description: 
+description: Image running 17.10 version of Vantage on VMware Developer Tier
 readme: |
-  
   As an enterprise-class analytics platform, Teradata Vantage stands alone. When deployed on IBM Cloud Private, Teradata Vantage on VMware offers a powerful, flexible new way to enhance business insights and bring faster time to value.
   
   Try the free Teradata Vantage on VMware Developer Tier to see how Teradata Vantage on VMware works in the IBM Cloud. 
@@ -38,7 +37,6 @@ links:
 - id: docs_index
   title: Teradata Vantage™ on VMware Developer Tier (Preconfigured) Getting Started
   url: https://docs.teradata.com/r/Teradata-VantageTM-on-VMware-Developer-Tier-Preconfigured-Quick-Deployment-Guide/October-2021
-
 - id: support_index
   title: Teradata Community Support
   url: https://support.teradata.com/community
