@@ -14,27 +14,26 @@ categories:
 - target_vcenter
 logo: https://s23.q4cdn.com/501457330/files/design/logo-two_colors.png
 description: Image running 17.10 version of Vantage on VMware Developer Tier
-readme: |
-As an enterprise-class analytics platform, Teradata Vantage stands alone. When deployed on IBM Cloud, Teradata Vantage on VMware offers a powerful, flexible new way to enhance business insights and bring faster time to value.
+readme: | 
+  As an enterprise-class analytics platform, Teradata Vantage stands alone. When deployed on IBM Cloud, Teradata Vantage on VMware offers a powerful, flexible new way to enhance business insights and bring faster time to value.
 
-Try the free Teradata Vantage on VMware Developer Tier to see how Teradata Vantage on VMware can work for you.
+  Try the free Teradata Vantage on VMware Developer Tier to see how Teradata Vantage on VMware can work for you.
 
-Use cases for Vantage on VMware Developer Tier include advanced application development, prototyping, test and development, and small analytics projects. Transform data into answers using agile, virtual infrastructure already in inventory.
+  Use cases for Vantage on VMware Developer Tier include advanced application development, prototyping, test and development, and small analytics projects. Transform data into answers using agile, virtual infrastructure already in inventory.
 
-For larger, production workloads, Teradata offers a production deployment-ready reference architecture in the IBM Cloud®, created by working jointly with IBM. This is enabled by coupling the infrastructure of IBM Cloud for VMware Solutions with Vantage on VMware. This offers IBM and Teradata customers a turn-key cloud-based reference architecture that provides predictable performance, scalability, and an availability profile that aligns with Teradata’s on-premises offerings.
+  For larger, production workloads, Teradata offers a production deployment-ready reference architecture in the IBM Cloud®, created by working jointly with IBM. This is enabled by coupling the infrastructure of IBM Cloud for VMware Solutions with Vantage on VMware. This offers IBM and Teradata customers a turn-key cloud-based reference architecture that provides predictable performance, scalability, and an availability profile that aligns with Teradata’s on-premises offerings.
 
-For more information about Teradata Vantage on VMware in IBM Cloud Private please contact Teradata sales: [https://www.teradata.com/About-Us/Contact](https://www.teradata.com/About-Us/Contact)
+  For more information about Teradata Vantage on VMware in IBM Cloud Private please contact Teradata sales: [https://www.teradata.com/About-Us/Contact](https://www.teradata.com/About-Us/Contact)
 
-## To learn more aobut Vantage on VMware Developer Tier
-[Teradata Vantage™ on VMware Developer Tier (Preconfigured) Quick Deployment Guide](https://docs.teradata.com/r/Teradata-VantageTM-on-VMware-Developer-Tier-Preconfigured-Quick-Deployment-Guide/October-2021)
+  ## To learn more aobut Vantage on VMware Developer Tier [Teradata Vantage™ on VMware Developer Tier (Preconfigured) Quick Deployment Guide](https://docs.teradata.com/r/Teradata-VantageTM-on-VMware-Developer-Tier-Preconfigured-Quick-Deployment-Guide/October-2021)
 
-## Additional resources
-[For more information on Vantage on VMware visit: https://www.teradata.com/Cloud/VMware](https://www.teradata.com/Cloud/VMware)
+  ## Additional resources
+  [For more information on Vantage on VMware visit: https://www.teradata.com/Cloud/VMware](https://www.teradata.com/Cloud/VMware)
 
-[For more information about Vantage on VMware for IBM Cloud Private please contact Teradata sales: https://www.teradata.com/About-Us/Contact](https://www.teradata.com/About-Us/Contact)
+  [For more information about Vantage on VMware for IBM Cloud Private please contact Teradata sales: https://www.teradata.com/About-Us/Contact](https://www.teradata.com/About-Us/Contact)
 
-## Getting support
-This a [Teradata](https://www.teradata.com/) community supported offering. If you encounter any issues, navigate to [https://support.teradata.com/community](https://support.teradata.com/community).
+  ## Getting support
+  This a [Teradata](https://www.teradata.com/) community supported offering. If you encounter any issues, navigate to [https://support.teradata.com/community](https://support.teradata.com/community).
 
 links:
 - id: docs_index
