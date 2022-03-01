@@ -15,17 +15,13 @@ categories:
 logo: https://s23.q4cdn.com/501457330/files/design/logo-two_colors.png
 description: Image running 17.10 version of Vantage on VMware Developer Tier
 readme: |
-  As an enterprise-class analytics platform, Teradata Vantage stands alone. 
-  When deployed on IBM Cloud, Teradata Vantage on VMware offers a powerful, flexible new way to enhance business insights and bring faster time to value.
+  As an enterprise-class analytics platform, Teradata Vantage stands alone. When deployed on IBM Cloud, Teradata Vantage on VMware offers a powerful, flexible new way to enhance business insights and bring faster time to value.
 
   Try the free Teradata Vantage on VMware Developer Tier to see how Teradata Vantage on VMware can work for you.
   
-  Use cases for Vantage on VMware Developer Tier include advanced application development, prototyping, test and development, and small analytics projects. 
-  Transform data into answers using agile, virtual infrastructure already in inventory.
+  Use cases for Vantage on VMware Developer Tier include advanced application development, prototyping, test and development, and small analytics projects. Transform data into answers using agile, virtual infrastructure already in inventory.
 
-  For larger, production workloads, Teradata offers a production deployment-ready reference architecture in the IBM Cloud®, created by working jointly with IBM. 
-  This is enabled by coupling the infrastructure of IBM Cloud for VMware Solutions with Vantage on VMware. This offers IBM and Teradata customers a turn-key cloud-based 
-  reference architecture that provides predictable performance, scalability, and an availability profile that aligns with Teradata’s on-premises offerings.
+  For larger, production workloads, Teradata offers a production deployment-ready reference architecture in the IBM Cloud®, created by working jointly with IBM. This is enabled by coupling the infrastructure of IBM Cloud for VMware Solutions with Vantage on VMware. This offers IBM and Teradata customers a turn-key cloud-based reference architecture that provides predictable performance, scalability, and an availability profile that aligns with Teradata’s on-premises offerings.
 
   For more information about Teradata Vantage on VMware in IBM Cloud Private please contact Teradata sales: [https://www.teradata.com/About-Us/Contact](https://www.teradata.com/About-Us/Contact)
 
