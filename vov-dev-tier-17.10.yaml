@@ -28,8 +28,8 @@ readme: |
   reference architecture that provides predictable performance, scalability, and an availability profile that aligns with Teradata’s on-premises offerings.
 
   For more information about Teradata Vantage on VMware in IBM Cloud Private please contact Teradata sales: [https://www.teradata.com/About-Us/Contact](https://www.teradata.com/About-Us/Contact)
- 
-  ## To get started
+
+  ## To learn more aobut Vantage on VMware Developer Tier
 
   [Teradata Vantage™ on VMware Developer Tier (Preconfigured) Quick Deployment Guide](https://docs.teradata.com/r/Teradata-VantageTM-on-VMware-Developer-Tier-Preconfigured-Quick-Deployment-Guide/October-2021)
 
@@ -41,7 +41,7 @@ readme: |
   
   ## Getting support
   
-  This offering is provided by [Teradata](https://www.teradata.com/). If you encounter any issues, navigate to [https://support.teradata.com/community](https://support.teradata.com/community).
+  This a [Teradata](https://www.teradata.com/) community supported offering. If you encounter any issues, navigate to [https://support.teradata.com/community](https://support.teradata.com/community).
 
 links:
 - id: docs_index
