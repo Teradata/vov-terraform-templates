@@ -1,6 +1,6 @@
 ---
-app_id: teradata-vantage-on-vmware-analytics-pack
-title: Teradata Vantage on VMware Analytics Pack
+app_id: teradata-vantage-on-vmware-dev-bundle
+title: Teradata Vantage on VMware Dev Bundle
 version: 1.0.0
 revision: '0'
 kind: ova
@@ -8,8 +8,8 @@ image:
   url: https://teradata-download.s3.amazonaws.com/database/teradata-express/tdc-jupyter-ova/IBMCloud-DevTier-171003.ova
   sha256: 678a4367688491436203343b80880b17370a57fe949287e6aabee3ead0851044
 image:
-  url: https://teradata-download.s3.amazonaws.com/database/teradata-express/tdc-jupyter-ova/teradata-precog-superset.ova
-  sha256: 474836836c3451f58f5c3c37b3be0d044d1feb3097495e017022c898972faf3b
+  url: https://teradata-download.s3.amazonaws.com/database/teradata-express/tdc-jupyter-ova/tdstudio-precog-apache-superset.ova
+  sha256: 36f3a5217573302c5fd510ddf15ab5d284a22802d807caf11e4697e1b987628d
 eula_url: https://downloads.teradata.com/download/license
 eula_label: Teradata All Rights Reserved
 categories:
@@ -18,24 +18,103 @@ categories:
 logo: https://s23.q4cdn.com/501457330/files/design/logo-two_colors.png
 description: Images running 17.10 version of Vantage on VMware Developer Tier and Ubuntu 20.04 with Teradata Jupyter Notebook, Precog installer and Apache Superset
 readme: |
-  As an enterprise-class analytics platform, Teradata Vantage stands alone. When deployed on IBM Cloud Private, Teradata Vantage on VMware offers a powerful, flexible new way to enhance business insights and bring faster time to value.
+  As an enterprise-class analytics platform, Teradata Vantage stands alone. When deployed on IBM Cloud, Teradata Vantage on VMware offers a powerful, flexible new way to enhance business insights and bring faster time to value.
   
-  Try the free Teradata Vantage on VMware Developer Tier with companion Jupyter Notebook, Apache Superset and installer script for our partners at [Precog](https://precog.com/integrations/teradata-to-apache-superset/) 
+  Try the free Teradata Vantage on VMware Developer Tier with companion analytics developer VM which includes Teradata Studio, Jupyter Lab, Apache Superset and installer script for our partners at [Precog](https://precog.com/integrations/teradata-to-apache-superset/) 
   
   Use cases include advanced application development, prototyping, test and development, and small analyticsi projects. Transform data into answers using agile, virtual infrastructure already in inventory.
+  
+  For larger, production workloads, Teradata offers a production deployment-ready reference architecture in the IBM Cloud®, created by working jointly with IBM. This is enabled by coupling the infrastructure of IBM Cloud for VMware Solutions with Vantage on VMware. This offers IBM and Teradata customers a turn-key cloud-based reference architecture that provides predictable performance, scalability, and an availability profile that aligns with Teradata’s on-premises offerings.
 
   For more informtion about Teradata Vantage on VMware in IBM Cloud Private please contact Teradata sales: [https://www.teradata.com/About-Us/Contact](https://www.teradata.com/About-Us/Contact)
  
+
+
+  ## Before you begin
+
+  Please note: This the Teradata Vantage on VMware Developer VM will consume 600GB of disk space, 32GB memory and 16 vCPUs. Make sure your ESXi server has the necessary resources for this VM. By default, the VM is configured to use DHCP. If you require a static IP address, you will need to configure it by hand (Reference the SuSE Linux Enterprise Server configuration documentation)
+
+  The developer analytics bundle VM will use 8vCPUs, 32GB of memory and 40GB hard drive space
+
+
+  ## Getting Started
+
+  After the Vantage on VMware Developer Tier OVA has been deployed in your environment:
+
+  1) Begin by powering on the VM
+
+  2) Once the VM has powered on, login as root (pass: iumb123)
+
+  3) Verify that the VM has obtained an IP address either via vCenter, or via the VM cli by issuing the command "ip a"
+
+  4) If your environment does not have DHCP, then you will need to configure the instance with a static IP.
+
+  5) The VM is currently configured with 3, 200GB disks. The first disk is the OS and Hard Disk 2 and Hard Disk 3 are the data volumes. If you require larger data volumes, you can resize those volumes via vCenter. You will not be able to resize the volumes after running the next command.
+  
+  6) As the root user, execute the command "tdvm-init" and answer the questions (time zone, time server settings, and root password)
+
+  7) Once the tdvm-init command has been issued, the database configuration processes can take up to 10 minutes. 
+
+  8) After the database has been successfully configured, you can then run a quick SQL test.
+
+  9) Run a quick SQL test: Login as root and execute the command: "bteq" 
+
+  10) At the BTEQ prompt, type: ".logon" NOTE the ".": you must type the dot.
+
+  11) At the BTEQ logon, type: dbc with password "dbc" to logon as the dbc user.
+
+  12) Once logged in; type "select * from dbc.dbcinfov". This should return the database version and release information.
+
+  13) To quit BTEQ, type ".quit" Note you need to type the dot.
+
+  After installing the developer analytics bundle OVA in your environment:
+
+  1) Begin by powering on the VM
+
+  2) Once the VM has powered on, login as tdc (pass: teradata2022)
+
+  3) Verify that the VM has obtained an IP address either via vCenter, or via the VM cli by issuing the command "ip a show ens160"
+
+  4) If your environment does not have DHCP, then you will need to configure the instance with a static IP. (Reference the Ubuntu 20.04 documentation on how to set a static IP)
+  
+  5) Once the analytics OVA has an IP address, run the command "docker ps" to view the current running images
+
+  6) Jupyter Lab is listening on port 8888 of the VM. Run the command "docker logs <Container ID" to get the Jupyter Lab token: Example "docker logs f7c30882aa43" will yield de80934786922234d48c3366fa42b98e1508f82a19da0030 as the token
+
+  7) Open a browser tab to http://<VM IP>:8888?token=de80934786922234d48c3366fa42b98e1508f82a19da0030 access Jupyter Lab
+
+  8) To access Apache Superset, open a browser tab to http://<VM IP>:8088/login/ and login as admin (pass: admin)
+
+  9) To install Precog, you need will need to contact Precog [https://precog.com/](https://precog.com/) to obtain an access to their DockerHub repo. Once you have access, you can install Precog by running the installPrecog.py script in /home/tdc
+
+  10)  To access Teradata Studio, you will need to install either VNC, XRDP, and/or Remmina on the VM. See: https://ubuntu.com/tutorials/access-remote-desktop#1-overview
+
+  11) Alternatively, you can visit [Teradata Downloads](https://downloads.teradata.com/) to download and install Teradata Studio on your laptop.
+  
+
+
+  ## To learn more aobut Vantage on VMware Developer Tier 
+
+  [Teradata Vantage™ on VMware Developer Tier (Preconfigured) Quick Deployment Guide](https://docs.teradata.com/r/Teradata-VantageTM-on-VMware-Developer-Tier-Preconfigured-Quick-Deployment-Guide/October-2021)
+  
+
+
   ## Additional resources
   
   [For more information on Vantage on VMware visit: https://www.teradata.com/Cloud/VMware](https://www.teradata.com/Cloud/VMware)
 
   [For more information about Vantage on VMware for IBM Cloud Private please contact Teradata sales](https://www.teradata.com/About-Us/Contact)
 
+  [For more information about Vantage Modules for Jupyter: https://teradata.github.io/jupyterextensions/](https://teradata.github.io/jupyterextensions/#/)
+
   [For more information about our partners at Precog visit: https://precog.com/](https://precog.com/)
 
   [For more information about Apache Superset, visit: https://superset.apache.org/](https://superset.apache.org/)
+
+  [Visit the Teradata Downloads site for more information about Teradata Studio: https://downloads.teradata.com/download/tools/teradata-studio](https://downloads.teradata.com/download/tools/teradata-studio)
   
+
+
   ## Getting support
   
   This offering is provided by [Teradata](https://www.teradata.com/). If you encounter any issues, navigate to [https://support.teradata.com/community](https://support.teradata.com/community).
