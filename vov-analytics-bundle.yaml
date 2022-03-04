@@ -23,7 +23,7 @@ readme: |
   
   For larger, production workloads, Teradata offers a production deployment-ready reference architecture in the IBM Cloud®, created by working jointly with IBM. This is enabled by coupling the infrastructure of IBM Cloud for VMware Solutions with Vantage on VMware. This offers IBM and Teradata customers a turn-key cloud-based reference architecture that provides predictable performance, scalability, and an availability profile that aligns with Teradata’s on-premises offerings.
 
-  For more informtion about Teradata Vantage on VMware in IBM Cloud Private please contact Teradata sales: [https://www.teradata.com/About-Us/Contact](https://www.teradata.com/About-Us/Contact)
+  For more informtion about Teradata Vantage on VMware on IBM Cloud for VMware Solutions please contact Teradata sales: [https://www.teradata.com/About-Us/Contact](https://www.teradata.com/About-Us/Contact)
  
 
 
@@ -68,7 +68,7 @@ readme: |
   
   [For more information on Vantage on VMware visit: https://www.teradata.com/Cloud/VMware](https://www.teradata.com/Cloud/VMware)
 
-  [For more information about Vantage on VMware for IBM Cloud for VMware Solutions please contact Teradata sales](https://www.teradata.com/About-Us/Contact)
+  [For more information about Vantage on VMware on IBM Cloud for VMware Solutions please contact Teradata sales](https://www.teradata.com/About-Us/Contact)
 
   [For more information about Vantage Modules for Jupyter: https://teradata.github.io/jupyterextensions/](https://teradata.github.io/jupyterextensions/#/)
 
