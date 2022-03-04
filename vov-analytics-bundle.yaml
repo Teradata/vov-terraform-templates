@@ -50,9 +50,9 @@ readme: |
 
   6) Jupyter Lab is listening on port 8888 of the VM. Run the command "docker logs <Container ID" to get the Jupyter Lab token: Example "docker logs f7c30882aa43" will yield de80934786922234d48c3366fa42b98e1508f82a19da0030 as the token
 
-  7) Open a browser tab to http://<VM IP>:8888?token=de80934786922234d48c3366fa42b98e1508f82a19da0030 access Jupyter Lab
+  7) Open a browser tab to http://{VM IP}:8888?token=de80934786922234d48c3366fa42b98e1508f82a19da0030 access Jupyter Lab
 
-  8) To access Apache Superset, open a browser tab to http://<VM IP>:8088/login/ and login as admin (pass: admin)
+  8) To access Apache Superset, open a browser tab to http://{VM IP}:8088/login/ and login as admin (pass: admin)
 
   9) To install Precog, you need will need to contact Precog [https://precog.com/](https://precog.com/) to obtain an access to their DockerHub repo. Once you have access, you can install Precog by running the installPrecog.py script in /home/tdc
 
